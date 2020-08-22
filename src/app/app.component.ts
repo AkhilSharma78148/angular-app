@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styles: [`
   	h1 {
-  		color: red;
+  		color: blue;
   	}
  `]
   // styleUrls: ['./app.component.css']
